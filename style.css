@@ -1,0 +1,14 @@
+input::placeholder {
+  color: aqua;
+  background-color: wheat;
+  border-radius: 2px;
+}
+input::selection {
+  color: rgb(160, 103, 28);
+  background-color: aquamarine;
+}
+
+h2::selection {
+  color: burlywood;
+  background-color: blue;
+}
